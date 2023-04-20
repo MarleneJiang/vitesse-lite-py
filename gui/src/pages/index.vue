@@ -30,7 +30,7 @@ const py2Js = () => {
   <div>
     <div i-carbon-campsite inline-block text-4xl />
     <p>
-      <a rel="noreferrer" href="https://github.com/antfu/vitesse-lite" target="_blank">
+      <a rel="noreferrer" href="https://github.com/MarleneJiang/vitesse-lite-py" target="_blank">
         vitesse-lite-py
       </a>
     </p>
