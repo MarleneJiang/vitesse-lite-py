@@ -1,7 +1,7 @@
 <h1 align='center'>vitesse-lite-py</h1>
 
 <p align='center'>
-Mocking up web app with <b>Vitesse-lite</b><sup><em>(smaller)</em></sup><br>
+Mocking up web app with <b>vitesse-lite</b><sup><em>(smaller)</em></sup><br>
 </p>
 
 <br>
@@ -71,8 +71,6 @@ Mocking up web app with <b>Vitesse-lite</b><sup><em>(smaller)</em></sup><br>
 <br>
 
 ## 尝试
-
-> vitesse-lite-py requires Node >=14.18 & Python >=3.7
 
 ```bash
 
